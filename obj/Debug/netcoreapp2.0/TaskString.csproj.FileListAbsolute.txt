@@ -1,0 +1,11 @@
+D:\TaskString\TaskString\obj\Debug\netcoreapp2.0\TaskString.csprojAssemblyReference.cache
+D:\TaskString\TaskString\obj\Debug\netcoreapp2.0\TaskString.csproj.CoreCompileInputs.cache
+D:\TaskString\TaskString\obj\Debug\netcoreapp2.0\TaskString.AssemblyInfoInputs.cache
+D:\TaskString\TaskString\obj\Debug\netcoreapp2.0\TaskString.AssemblyInfo.cs
+D:\TaskString\TaskString\bin\Debug\netcoreapp2.0\TaskString.deps.json
+D:\TaskString\TaskString\bin\Debug\netcoreapp2.0\TaskString.runtimeconfig.json
+D:\TaskString\TaskString\bin\Debug\netcoreapp2.0\TaskString.runtimeconfig.dev.json
+D:\TaskString\TaskString\bin\Debug\netcoreapp2.0\TaskString.dll
+D:\TaskString\TaskString\bin\Debug\netcoreapp2.0\TaskString.pdb
+D:\TaskString\TaskString\obj\Debug\netcoreapp2.0\TaskString.dll
+D:\TaskString\TaskString\obj\Debug\netcoreapp2.0\TaskString.pdb
